@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0320: Make anonymous function static
+csharp_prefer_static_anonymous_function = true
+
+# IDE0008: Use explicit type
+csharp_style_var_for_built_in_types = true

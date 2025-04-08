@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\venue\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\venue\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\eventbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:eventbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\event\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\event\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cldv-poe-part1\\eventbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE0C780-949B-446C-AA23-2B2E1C3081C7}|EventBook.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAIAAAAAmpmZmVkqwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:34:19.524Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:45:28.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T16:56:44.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Venue\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Venue\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T00:12:30.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Venue\\View.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\View.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Venue\\View.cshtml",
+              "RelativeToolTip": "Views\\Venue\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T14:28:00.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:48:23.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Venue\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Venue\\Create.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAApJmZmZkOwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T00:51:26.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:10:53.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:48:36.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAQDMzMzPbv54AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:14:57.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:16:26.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:32:48.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAAAsAAACAopmZmRkmwBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:01:22.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventBook.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\EventBook.csproj",
+              "RelativeDocumentMoniker": "EventBook.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\EventBook.csproj",
+              "RelativeToolTip": "EventBook.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T23:50:26.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T18:51:33.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Booking\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Booking\\Details.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T01:29:12.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAABAmpmZmZkuwB0AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T21:42:21.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T13:02:56.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T13:21:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T01:20:09.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T01:17:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\View.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\View.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\View.cshtml",
+              "RelativeToolTip": "Views\\Event\\View.cshtml",
+              "ViewState": "AgIAAB0AAADgMjMzM/MmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T14:27:03.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Booking\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Booking\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T01:38:07.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "Views\\Event\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T14:15:18.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Venue\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Venue\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T14:16:41.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Venue\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Venue\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T14:18:23.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Event\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T14:14:16.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Event\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAACgNjMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T14:12:44.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDV-POE-part1\\EventBook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAczczMzIwnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:31:48.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
